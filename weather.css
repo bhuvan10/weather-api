@@ -1,6 +1,6 @@
 body{
     color: white;
-    background-image: url("/weather.jpg");
+    background-image: url("weather.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 5px;
